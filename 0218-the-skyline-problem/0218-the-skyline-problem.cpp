@@ -1,39 +1,38 @@
+
 class Solution {
 public:
     vector<vector<int>> getSkyline(vector<vector<int>>& buildings) {
-        vector<vector<int>> ans;
-        multiset<int> pq{0};
-        
-        vector<pair<int, int>> points;
-        
-        for(auto b: buildings){
-            points.push_back({b[0], -b[2]});
-            points.push_back({b[1], b[2]});
-        }
-        
-        sort(points.begin(), points.end());
-        
-        int ongoingHeight = 0;
-        
-        // points.first = x coordinate, points.second = height
-        for(int i = 0; i < points.size(); i++){
-            int currentPoint = points[i].first;
-            int heightAtCurrentPoint = points[i].second;
-            
-            if(heightAtCurrentPoint < 0){
-                pq.insert(-heightAtCurrentPoint);
-            } else {
-                pq.erase(pq.find(heightAtCurrentPoint));
+
+        std::vector<std::vector<int>> ans;
+        std::priority_queue<std::pair<int, int>> pq;
+
+        int x = 0;
+        int x2 = 0;
+        int i=0;
+        while(i<buildings.size() || !pq.empty()) {
+            if(pq.empty() ||
+              (i<buildings.size() && pq.top().second >= buildings[i][0])) {
+                x = buildings[i][0];
+                if(pq.empty() || pq.top().first < buildings[i][2]) {
+                    if(ans.empty() || ans.back()[0] != x) {
+                        ans.emplace_back(std::vector<int>({x, buildings[i][2]}));
+                    }
+                    else {
+                        ans.back()[1] = buildings[i][2];
+                    }
+                }
+                pq.push(std::make_pair(buildings[i][2], buildings[i][1]));
+                i++;
             }
-            
-            // after inserting/removing heightAtI, if there's a change
-            auto pqTop = *pq.rbegin();
-            if(ongoingHeight != pqTop){
-                ongoingHeight = pqTop;
-                ans.push_back({currentPoint, ongoingHeight});
+            else {
+                x = std::max(x, pq.top().second);
+                while(!pq.empty() && pq.top().second <= x) {
+                    pq.pop();
+                }
+                ans.emplace_back(std::vector<int>({x, pq.empty() ? 0 : pq.top().first}));
             }
         }
-        
+
         return ans;
     }
 };
