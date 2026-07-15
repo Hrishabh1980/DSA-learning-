@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0088-merge-sorted-array) |
 | [0218-the-skyline-problem](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0218-the-skyline-problem) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0218-the-skyline-problem) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
