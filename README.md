@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
