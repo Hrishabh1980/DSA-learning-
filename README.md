@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0876-middle-of-the-linked-list) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
