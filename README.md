@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
