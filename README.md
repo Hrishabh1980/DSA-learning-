@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
