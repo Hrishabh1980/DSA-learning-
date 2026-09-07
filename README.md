@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0237-delete-node-in-a-linked-list) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
