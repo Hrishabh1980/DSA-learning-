@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0218-the-skyline-problem) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Ordered Set
 |  |
 | ------- |
@@ -239,4 +240,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0881-boats-to-save-people) |
+## Graph Theory
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
