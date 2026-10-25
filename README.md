@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Hrishabh1980/DSA-learning-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Binary Search
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0088-merge-sorted-array) |
 | [0218-the-skyline-problem](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0543-diameter-of-binary-tree) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
