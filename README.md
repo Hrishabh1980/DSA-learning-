@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0141-linked-list-cycle) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0189-rotate-array) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Hrishabh1980/DSA-learning-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
